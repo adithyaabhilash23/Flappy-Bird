@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outlined Yellow Body Spherical Shadow -->
+    <path
+        android:fillColor="#FBC02D"
+        android:strokeColor="#3E2723"
+        android:strokeWidth="3.5"
+        android:pathData="M54,54m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0" />
+
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M54,54m-21,0a21,21 0,1 1,42 0a21,21 0,1 1,-42 0" />
+
+    <!-- Eye Sclera (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#3E2723"
+        android:strokeWidth="3"
+        android:pathData="M66,45m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0" />
+
+    <!-- Pupil (Black) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M68,45m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+
+    <!-- Cute Eye Sparkle (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,43.5m-1.5,0a1.5,1.5 0,1 1,2.5 0a1.5,1.5 0,1 1,-2.5 0" />
+
+    <!-- Orange Beak Triangular Path -->
+    <path
+        android:fillColor="#FF9800"
+        android:strokeColor="#3E2723"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round"
+        android:pathData="M73,50 L91,54 L72,61 Z" />
+
+    <!-- Little Flapping Wing on Left -->
+    <path
+        android:fillColor="#FFF59D"
+        android:strokeColor="#3E2723"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round"
+        android:pathData="M38,54 C32,44 46,38 48,46 C50,52 40,60 38,54 Z" />
+
+</vector>
